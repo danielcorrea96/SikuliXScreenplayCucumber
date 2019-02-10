@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Distance from the Staff building to General Direction Bancolombia" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-06T21:01:08" hostname="CPX-SV728BHF9YT" time="39.236">
+  <properties/>
+  <testcase name="Distance between Staff and DG" classname="Distance from the Staff building to General Direction Bancolombia" time="39.236"/>
+  <system-out><![CDATA[[log] CLICK on L(432,454)@S(0)[0,0 1366x768] (555 msec)
+[log]  TYPE "Google Maps#ENTER."
+[log] CLICK on L(193,299)@S(0)[0,0 1366x768] (541 msec)
+[log] CLICK on L(85,148)@S(0)[0,0 1366x768] (536 msec)
+[log] CLICK on L(321,146)@S(0)[0,0 1366x768] (581 msec)
+[log] RIGHT CLICK on L(957,404)@S(0)[0,0 1366x768] (539 msec)
+[log] CLICK on L(1031,424)@S(0)[0,0 1366x768] (526 msec)
+[log] CLICK on L(111,235)@S(0)[0,0 1366x768] (566 msec)
+[log] DOUBLE CLICK on L(187,218)@S(0)[0,0 1366x768] (565 msec)
+[log] CLICK on L(101,234)@S(0)[0,0 1366x768] (530 msec)
+[log]  TYPE "Bancolombia Direccion General"
+[log] CLICK on L(318,231)@S(0)[0,0 1366x768] (528 msec)
+[log] CLICK on L(207,147)@S(0)[0,0 1366x768] (532 msec)
+paso por aqui1.5km
+]]></system-out>
+  <system-err><![CDATA[Feb 06, 2019 4:01:08 PM org.bridj.BridJ log
+INFO: Registering type org.sikuli.util.SysJNA$WinKernel32
+Feb 06, 2019 4:01:08 PM org.bridj.BridJ log
+INFO: Registering type org.bridj.TimeT
+Feb 06, 2019 4:01:08 PM org.bridj.BridJ log
+INFO: Registering type org.bridj.TimeT$timeval_customizer
+Feb 06, 2019 4:01:08 PM org.bridj.BridJ log
+INFO: Registering type org.bridj.StructIO$DefaultCustomizer
+Feb 06, 2019 4:01:08 PM org.bridj.BridJ log
+INFO: Registering type org.bridj.TimeT$timeval
+Feb 06, 2019 4:01:08 PM org.bridj.BridJ log
+INFO: Registering type org.bridj.StructObject
+Feb 06, 2019 4:01:08 PM org.bridj.BridJ log
+INFO: Registering type org.bridj.NativeObject
+Feb 06, 2019 4:01:08 PM org.bridj.BridJ log
+INFO: Registering type org.bridj.AbstractIntegral
+Feb 06, 2019 4:01:08 PM org.bridj.BridJ log
+INFO: Registering type java.lang.Number
+Feb 06, 2019 4:01:10 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a) on port 19831
+Only local connections are allowed.
+Feb 06, 2019 4:01:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Distance between Staff and DG
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
